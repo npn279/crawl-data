@@ -42,7 +42,7 @@ class MyCrawler(CrawlSpider):
         }
 ```
 
-### Start scrawler
+## 3. Start scrawler
 To crawl data, use
 
 ```
